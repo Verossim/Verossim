@@ -1,4 +1,6 @@
-### Hi there 👋
+### Matheus Caldas Lima 👋
+
+![GitHub followers](https://img.shields.io/github/followers/Verossim?style=social) ![Linkedin Profile](https://img.shields.io/twitter/url?label=LinkedIn&logo=linkedin&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmatheus-c-lima%2F) ![Email](https://img.shields.io/twitter/url?label=matheuscaldas95%40gmail.com&logo=gmail&style=social&url=https%3A%2F%2Fgmail.com)
 
 <!--
 **Verossim/Verossim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
