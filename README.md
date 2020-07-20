@@ -1,6 +1,11 @@
 ### Matheus Caldas Lima 👋
 
-![GitHub followers](https://img.shields.io/github/followers/Verossim?style=social) ![Linkedin Profile](https://img.shields.io/twitter/url?label=LinkedIn&logo=linkedin&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmatheus-c-lima%2F) ![Email](https://img.shields.io/twitter/url?label=matheuscaldas95%40gmail.com&logo=gmail&style=social&url=https%3A%2F%2Fgmail.com)
+<p align="center">
+	<a href="https://github.com/verossim"><img src="https://img.shields.io/github/followers/verossim.svg?label=GitHub&style=social" alt="GitHub"></a>
+	<a href="https://twitter.com/matheuslc_"><img src="https://img.shields.io/twitter/follow/matheuslc_?label=Twitter&style=social" alt="Twitter"></a>
+	<a href="https://www.linkedin.com/in/matheus-c-lima"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+	<a href="https://google.com/gmail"><img src="https://img.shields.io/badge/matheuscaldas95@gmail.com--_.svg?style=social&logo=gmail" alt="Gmail"></a>
+</p>
 
 <!--
 **Verossim/Verossim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
