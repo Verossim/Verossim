@@ -14,6 +14,6 @@
 - ⚡ Fun fact: Sempre que possível estou ouvindo uma música
 
 
-[![Verossim GitHub stats](https://github-readme-stats.vercel.app/api?username=verossim&show_icons=true&theme=dracula)
-](https://github.com/anuraghazra/github-readme-stats)
+![Verossim GitHub stats](https://github-readme-stats.vercel.app/api?username=verossim&show_icons=true&theme=dracula)
+
 
