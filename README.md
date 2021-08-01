@@ -1,18 +1,14 @@
-### Matheus Caldas Lima 👋
+### Olá, eu sou o Matheus Lima <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-<p align="center">
-	<a href="https://github.com/verossim"><img src="https://img.shields.io/github/followers/verossim.svg?label=GitHub&style=social" alt="GitHub"></a>
-	<a href="https://twitter.com/matheuslc_"><img src="https://img.shields.io/twitter/follow/matheuslc_?label=Twitter&style=social" alt="Twitter"></a>
-	<a href="https://www.linkedin.com/in/matheus-c-lima"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
-	<a href="https://google.com/gmail"><img src="https://img.shields.io/badge/matheuscaldas95@gmail.com--_.svg?style=social&logo=gmail" alt="Gmail"></a>
-</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=verossim&label=Profile%20views&color=0e75b6&style=flat" alt="xtenzq" /> </p
 
-<!--
-**Verossim/Verossim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://twitter.com/matheuslc_" target="blank"><img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/twitter.svg" /></a>
+<a href="https://linkedin.com/in/matheus-c-lima" target="blank"><img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/linkedin.svg" /></a>
+<a href="https://instagram.com/matheuslc_" target="blank"><img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/twitter.svg" /></a>
+<a href="https://profile.codersrank.io/user/verossim" target="blank"><img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/codersrank.svg" /></a>
+<br />
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
+- 🔭 Atualmente trabalhando na [Season Tecnologias](https://www.season.com.br/)
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -20,4 +16,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+
+[![Verossim GitHub stats](https://github-readme-stats.vercel.app/api?username=verossim&show_icons=true&theme=dracula)
+](https://github.com/anuraghazra/github-readme-stats)
+
