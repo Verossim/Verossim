@@ -9,7 +9,7 @@
 <br />
 
 - 🔭 Atualmente trabalhando na [Season Tecnologias](https://www.season.com.br/)
-- 🌱 Estou aprendendo NextJS
+- 🌱 Estou aprendendo: NextJS
 - 📫 Contato: matheuscaldas95@gmail.com
 - ⚡ Fun fact: Sempre que possível estou ouvindo uma música
 
