@@ -8,7 +8,7 @@
 <a href="https://profile.codersrank.io/user/verossim" target="blank"><img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/codersrank.svg" /></a>
 <br />
 
-- 🔭 Atualmente trabalhando na [Season Tecnologias](https://www.season.com.br/)
+- 🔭 Atualmente trabalhando na [Corebiz](https://www.corebiz.ag/)
 - 🌱 Estou aprendendo: NextJS
 - 📫 Contato: matheuscaldas95@gmail.com
 - ⚡ Fun fact: Sempre que possível estou ouvindo uma música
